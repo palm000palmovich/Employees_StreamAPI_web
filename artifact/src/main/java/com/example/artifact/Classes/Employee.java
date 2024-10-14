@@ -1,4 +1,4 @@
-package com.example.artifact;
+package com.example.artifact.Classes;
 
 import java.util.Objects;
 
@@ -72,4 +72,5 @@ public class Employee {
                 ", department= " + department +
                 ", salary= " + salary + "       ";
     }
+
 }
